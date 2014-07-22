@@ -35,7 +35,7 @@
 	<!-- Windows Phone -->
 	<gap:splash src="mIcon.jpg" gap:platform="winphone" />
 
-    <name>MemoryTest</name>
+    <name>smasSH</name>
 
     <description>
         Simple game in phonegap. 
